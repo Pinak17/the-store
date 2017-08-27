@@ -1,2 +1,2 @@
 # the-store
-Just a regular store :-)
+Just a regular e-commerce online fashion store :-)
